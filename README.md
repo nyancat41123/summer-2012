@@ -3,6 +3,7 @@ Summer 2012
 
 ## Learning computer science
 
+## Day 1 - June 3, 2012
 
 * This is how to connect to a computer:
 
