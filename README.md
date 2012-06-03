@@ -32,3 +32,7 @@ Summer 2012
   ```bash
   $ tab completion (auto completion)
   ```
+
+* Learn and practice how to use the Terminal
+
+  [Hack Run Apple Application](http://itunes.apple.com/us/app/hack-run/id407678003?mt=8)
