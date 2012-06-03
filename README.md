@@ -1,4 +1,4 @@
-summer-2012
+Summer 2012
 ===========
 
-Learning computer science
+## Learning computer science
